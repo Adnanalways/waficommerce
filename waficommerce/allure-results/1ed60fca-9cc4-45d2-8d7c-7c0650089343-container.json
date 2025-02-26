@@ -1,0 +1,1 @@
+{"uuid":"1ed60fca-9cc4-45d2-8d7c-7c0650089343","name":"waficommerce.Login","children":["1b572484-f58b-45bb-8d42-ba71e56b11d9"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1740026242398,"stop":1740026245262}],"afters":[],"start":1740026242362,"stop":1740026251990}
